@@ -29,7 +29,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://52.66.83.171:8081/repository/maven-snapshots/</url>
+            <url>http://13.233.47.217:8081/repository/maven-snapshots/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
